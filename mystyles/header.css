@@ -1,0 +1,30 @@
+.vosile-header{
+    background-color: rgb(5, 5, 23);
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+}
+.vosile-header-left-section {
+    width: 300px;
+}
+.hamburger-logo {
+    margin-left: 20px;
+    margin-top: 0;
+    height: 20px;
+    margin-bottom: 15px;
+}
+.vosile-logo {
+    margin-left: 150px;
+    height: 75px;
+    width: 90px;
+}
